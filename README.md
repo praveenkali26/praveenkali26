@@ -1,7 +1,7 @@
 <h1>Hey👋 Praveen! here</h1>
 <h3>A enthusiastic full stack developer and software engineer</h3>
 
-<img align="right" alt="coding" width="350" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
+<img style="pointer-events: none;  cursor: default;" align="right" alt="coding" width="350" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
 
 - 👨‍💻 Exploring & Experticing in front-end & back-end technologies (MERN) 
 - 📫 How to reach me? Email me at **praveenkali26@yahoo.com**
